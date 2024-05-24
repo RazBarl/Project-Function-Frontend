@@ -1,5 +1,5 @@
 # Project Title
-Project-Function-Frontend(MetaMask)
+Module 2: Project-Function-Frontend(MetaMask)
 
 ## Description
 After cloning, Chris's github from Metacrafters, we need to do the following to get the code running on our computer.
