@@ -1,6 +1,16 @@
-# Starter Next/Hardhat Project
+# Project Title
 
-After cloning the github, you will want to do the following to get the code running on your computer.
+Project: Function Frontend
+
+## Description
+
+Clone the github of Chris "SCM-Starter" of Metacrafters, then for this project, create a simple contract with 2-3 functions. Then show the values of those functions in frontend of the application.
+
+### Executing program
+
+#### Starter Next/Hardhat Project
+
+After cloning the github, you need to modified the Assessment.sol, Index.js and Assessment.json
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
@@ -10,3 +20,10 @@ After cloning the github, you will want to do the following to get the code runn
 
 After this, the project will be running on your localhost. 
 Typically at http://localhost:3000/
+
+## Authors
+National Teachers College
+
+Razelle Brian L. Arlos
+
+8214515@ntc.edu.ph
