@@ -10,7 +10,7 @@ Clone the github of Chris "SCM-Starter" of Metacrafters, then for this project, 
 
 #### Starter Next/Hardhat Project
 
-After cloning the github, you need to modified the Assessment.sol, Index.js and Assessment.json
+After cloning the github, you need to modified the Assessment.sol, Index.js and Assessment.json then run this things on your terminal so that it will compiled and deploy your frontend in the browser.
 
 1. Inside the project directory, in the terminal type: npm i
 2. Open two additional terminals in your VS code
